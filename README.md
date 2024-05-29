@@ -18,7 +18,13 @@ Olá, eu sou o Felipe 👋
 <a href = "mailto:f3lip3d3v@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-verdade-didio/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
+
+## Estatísticas Github
+<div>
+<a href="https://github.com/FelipeDidio">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDidio&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDidio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
           
           
