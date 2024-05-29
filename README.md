@@ -1,5 +1,31 @@
-## Hi there 👋
+Olá, eu sou o Felipe 👋
+🌱 Sou estudante e atualmente em transição de carreira.
+🔭 Além do curso técnico em Desenvolvimento de Sistemas no SENACRS venho estudando paralelamente na plataforma Alura para aprofundar conhecimentos que me despertam maior interesse.
+📬 Você pode fazer contato comigo no mail: f3lip3d3v@gmail.com
+⚡ 
 
+
+## Ferramentas e Tecnologias 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+          
+
+
+          
+          
+          
+          
+          
+          
+                    
 <!--
 **FelipeDidio/FelipeDidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
