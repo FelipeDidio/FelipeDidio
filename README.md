@@ -1,3 +1,6 @@
+ ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)         
+
+
 Olá, eu sou o Felipe 👋
 🌱 Sou estudante e atualmente em transição de carreira.
 🔭 Além do curso técnico em Desenvolvimento de Sistemas no SENACRS venho estudando paralelamente na plataforma Alura para aprofundar conhecimentos que me despertam maior interesse.
@@ -25,7 +28,6 @@ Olá, eu sou o Felipe 👋
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDidio&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDidio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-          
           
           
           
