@@ -1,4 +1,4 @@
-// ![Snake animation](https://github.com/FelipeDidio/FelipeDidio/blob/output/github-contribution-grid-snake.svg)         
+/* ![Snake animation](https://github.com/FelipeDidio/FelipeDidio/blob/output/github-contribution-grid-snake.svg)  */
 
 
 Olá, eu sou o Felipe 👋
