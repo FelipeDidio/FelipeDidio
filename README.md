@@ -1,4 +1,4 @@
-/* ![Snake animation](https://github.com/FelipeDidio/FelipeDidio/blob/output/github-contribution-grid-snake.svg)  */
+
 
 
 Olá, eu sou o Felipe 👋
@@ -29,7 +29,7 @@ Olá, eu sou o Felipe 👋
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDidio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
-          
+         <!-- ![Snake animation](https://github.com/FelipeDidio/FelipeDidio/blob/output/github-contribution-grid-snake.svg)  -->
           
                     
 <!--
