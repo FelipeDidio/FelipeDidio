@@ -2,10 +2,12 @@
 
 
 Olá, eu sou o Felipe 👋
-🌱 Sou estudante e atualmente em transição de carreira.<br>
+<br>
+🌱 Sou estudante e atualmente em transição de carreira.
+<br><br>
 🔭 Além do curso técnico em Desenvolvimento de Sistemas no SENACRS venho estudando paralelamente na plataforma Alura para aprofundar conhecimentos que me despertam maior interesse. <br>
-📬 Você pode fazer contato comigo no mail: f3lip3d3v@gmail.com
-⚡ 
+<br><br>
+📬 Você pode fazer contato comigo no mail: f3lip3d3v@gmail.com⚡ 
 
 
 ## Ferramentas e Tecnologias 
