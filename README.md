@@ -1,7 +1,7 @@
 
 
 
-Olá, eu sou o Felipe 👋
+Olá, que legal que você está aqui, eu sou o Felipe 👋
 <br>
 🌱 Sou estudante e atualmente em transição de carreira.
 <br>
