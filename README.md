@@ -5,9 +5,9 @@ Olá, que legal que você está aqui, eu sou o Felipe 👋
 <br>
 🌱 Sou estudante e atualmente em transição de carreira.
 <br>
-🔭 Além do curso técnico em Desenvolvimento de Sistemas no SENACRS venho estudando paralelamente na plataforma Alura para aprofundar conhecimentos que me despertam maior interesse. <br>
+🔭 Além da graduação em Desenvolvimento de Sistemas na ULBRA venho estudando paralelamente na plataforma Alura para aprofundar conhecimentos que me despertam maior interesse. <br>
 <br>
-📬 Você pode fazer contato comigo no mail: f3lip3d3v@gmail.com⚡ 
+📬 Você pode fazer contato comigo no mail: felipeverdade@gmail.com⚡ 
 
 
 ## Ferramentas e Tecnologias 
